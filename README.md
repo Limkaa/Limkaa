@@ -1,47 +1,35 @@
 ### Hi there 👋
 
-### 🤵 About Me:
-- 🔭 I’m currently working on IOS application for Personal Time Tracking
-- 🌱 I’m currently learning Swift, Python, Javascript (Angular)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+Hi, I'm Alim Khamrayev, a passionate web and mobile app developer from Kazakhstan. What do I love about programming? This is a sandbox in which by combining logic, design and architecture you can embody your wildest ideas and create incredibly cool things that will benefit a huge number of people around the world. That's why I love it. 
 
+ - 🎓  I'm currently studying Information Systems at the Kazakh-British Technical University
+ - 🌱  I'm on track for learning more about Mobile applications and Web Development
+ - ✍️  In my free time, I read self-development books, listen to music and do sports
+ - 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
-![]
-
----
+### 📬 Get in Touch
+ - E-mail: khamraev.alim@gmail.com
+ - GitHub: github.com/Limkaa
+------
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-Upper-green)
+![Swift](https://img.shields.io/badge/Swift-Intermediate-blue)
+![Java](https://img.shields.io/badge/Java-Upper-green)
+![C++](https://img.shields.io/badge/C++-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-lightgrey)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
+![Django](https://img.shields.io/badge/Django-Beginner-lightgrey)
+![HTML](https://img.shields.io/badge/HTML-Upper-green)
+![CSS](https://img.shields.io/badge/CSS-Upper-green)
+![Git](https://img.shields.io/badge/Git-Beginner-lightgrey)
+![GitHub](https://img.shields.io/badge/GitHub-Beginner-lightgrey)
+![Pycharm](https://img.shields.io/badge/Pycharm-Intermediate-blue)
+![Eclipse](https://img.shields.io/badge/Eclipse-Intermediate-blue)
+![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-blue)
+![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-blue)
+------
 ### 🐱My Github stats:
-![Limkaa's github stats](https://github-readme-stats.vercel.app/api?username=Limkaa&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Limkaa&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![Limkaa's github stats](https://github-readme-stats.vercel.app/api?username=Limkaa&show_icons=true&title_color=d1d1d1&icon_color=03fc73&text_color=8e8e8e&bg_color=111111&hide=["stars"])
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.65% 
-🌆 Daytime    83 commits     ██████░░░░░░░░░░░░░░░░░░░   25.62% 
-🌃 Evening    172 commits    █████████████░░░░░░░░░░░░   53.09% 
-🌙 Night      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.64%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
-Tuesday      23 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82% 
-Wednesday    25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
-Thursday     14 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
-Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.44% 
-Saturday     70 commits     ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Sunday       91 commits     ███████░░░░░░░░░░░░░░░░░░   30.95%
-
-```
-
-⏳ **Year Progress** { ███████████████████████████▁▁▁ } 90.17 % as on ⏰ 26-11-2020.
-
-Last Edited on: 28/03/2021
+Last Edited on: 29/03/2021
 
