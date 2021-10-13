@@ -6,7 +6,7 @@ A passionate web and mobile app developer from Kazakhstan. What do I love about 
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Limkaa&show_icons=true&title_color=d1d1d1&icon_color=03fc73&text_color=8e8e8e&bg_color=111111&border_radius=0)" alt="Limkaa stats" width="500"/>
   
  - 🎓 I'm currently studying Information Systems at the Kazakh-British Technical University
- - 🌱 I'm on track for learning more about Mobile applications and Web Development
+ - 🌱 I'm on track for learning more about Fullstack Web Development
  - ✍️ In my free time, I read self-development books, listen to music and do sports
  - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
  - 📫 E-mail: khamraev.alim@gmail.com
