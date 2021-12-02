@@ -9,7 +9,7 @@ A passionate web and mobile app developer from Kazakhstan. What do I love about 
  - 🌱 I'm on track for learning more about Fullstack Web Development
  - ✍️ In my free time, I read self-development books, listen to music and do sports
  - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
- - 📫 E-mail: khamraev.alim@gmail.com
+ - 📫 E-mail: khameralim@gmail.com
 
 **Languages and Tools:**
 
