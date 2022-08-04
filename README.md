@@ -24,7 +24,7 @@ A passionate web developer from Kazakhstan. What do I love about programming? Th
 ![JavaScript](https://img.shields.io/badge/JavaScript-Upper-green)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 ![Angular](https://img.shields.io/badge/Angular-Beginner-lightgrey)
-![React](https://img.shields.io/badge/Angular-Intermediate-blue)
+![React](https://img.shields.io/badge/React-Intermediate-blue)
 ![Django](https://img.shields.io/badge/Django-Beginner-lightgrey)
 ![HTML](https://img.shields.io/badge/HTML-Upper-green)
 ![CSS](https://img.shields.io/badge/CSS-Upper-green)
@@ -33,5 +33,5 @@ A passionate web developer from Kazakhstan. What do I love about programming? Th
 ![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-blue)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-blue)
 
-Last Edited on: 29/03/2021
+Last Edited on: 04/08/2022
 
