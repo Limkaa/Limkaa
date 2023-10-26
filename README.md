@@ -5,7 +5,7 @@ A passionate web developer from Kazakhstan. What do I love about programming? Th
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Limkaa&show_icons=true&title_color=d1d1d1&icon_color=03fc73&text_color=8e8e8e&bg_color=111111&border_radius=0)" alt="Limkaa stats" width="500"/>
   
- - 🎓 I'm currently studying Information Systems at the Kazakh-British Technical University
+ - 🎓 Graduated Information Systems at the Kazakh-British Technical University
  - 🌱 I'm on track for learning more about Fullstack Web Development
  - ✍️ In my free time, I read self-development books, listen to music and do sports
  - 💬 Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
@@ -25,11 +25,10 @@ A passionate web developer from Kazakhstan. What do I love about programming? Th
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 ![Angular](https://img.shields.io/badge/Angular-Beginner-lightgrey)
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
-![Django](https://img.shields.io/badge/Django-Beginner-lightgrey)
+![Django](https://img.shields.io/badge/Django-Upper-lightgrey)
 ![HTML](https://img.shields.io/badge/HTML-Upper-green)
 ![CSS](https://img.shields.io/badge/CSS-Upper-green)
-![Git](https://img.shields.io/badge/Git-Beginner-lightgrey)
-![GitHub](https://img.shields.io/badge/GitHub-Beginner-lightgrey)
+![Git](https://img.shields.io/badge/Git-Intermediate-lightgrey)
 ![Illustrator](https://img.shields.io/badge/Illustrator-Intermediate-blue)
 ![Photoshop](https://img.shields.io/badge/Photoshop-Intermediate-blue)
 
