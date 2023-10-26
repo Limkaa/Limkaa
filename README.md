@@ -25,7 +25,7 @@ A passionate web developer from Kazakhstan. What do I love about programming? Th
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-lightgrey)
 ![Angular](https://img.shields.io/badge/Angular-Beginner-lightgrey)
 ![React](https://img.shields.io/badge/React-Intermediate-blue)
-![Django](https://img.shields.io/badge/Django-Upper-lightgrey)
+![Django](https://img.shields.io/badge/Django-Upper-green)
 ![HTML](https://img.shields.io/badge/HTML-Upper-green)
 ![CSS](https://img.shields.io/badge/CSS-Upper-green)
 ![Git](https://img.shields.io/badge/Git-Intermediate-lightgrey)
